@@ -1,0 +1,22 @@
+{
+  "name": "MultiPhotoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of MultiPhotoPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangdekai/MultiPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangdekai": "664939067@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangdekai/MultiPhotoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MultiPhotoPicker/Classes/**/*"
+}

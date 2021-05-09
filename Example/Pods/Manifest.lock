@@ -1,0 +1,16 @@
+PODS:
+  - MultiPhotoPicker (0.1.0)
+
+DEPENDENCIES:
+  - MultiPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  MultiPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MultiPhotoPicker: 0f15748aed6cab5de414a8404a288bd66fa214a7
+
+PODFILE CHECKSUM: 255c99a11fdf9bd65dd7f25925f426f018002d6e
+
+COCOAPODS: 1.10.1
